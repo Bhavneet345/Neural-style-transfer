@@ -16,6 +16,9 @@ Chosen image example
 
 # Results 
 
+![human](https://user-images.githubusercontent.com/84433782/132866317-24cebe48-a6fa-4cc6-ab81-aad9dd775f16.jpg) ![stylised image-8](https://user-images.githubusercontent.com/84433782/132866361-358548ee-50e2-453c-a952-0513508684ff.png) ![style-9](https://user-images.githubusercontent.com/84433782/132866398-ca9c8556-71c1-4c63-ad35-85656a466ba4.jpg)
+
+
 ![Lion](https://user-images.githubusercontent.com/84433782/131247731-6d76c6cc-bc49-4b3f-92e5-2e22a77980ba.jpg) ![stylised image-2](https://user-images.githubusercontent.com/84433782/131247741-000aaca7-8746-44ae-8cac-c24ca7b9ecbe.png) ![style-4](https://user-images.githubusercontent.com/84433782/131247744-c54dc4b2-ce93-4145-81ba-b9550bcff6bf.jpg)
 
 
