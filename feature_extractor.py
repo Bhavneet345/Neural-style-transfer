@@ -11,7 +11,7 @@ def new_model(model_name, layers):
     """extracting the necessary layers from VGG model"""
     layer_output = [model_name.get_layer(layer_name).output for layer_name in layers]
 
-    """Developing the own model"""
+    """Developing the model to get the desired results from specified style and content layers"""
     new_vgg = Model([model_name.input], layer_output)
 
     return new_vgg
@@ -47,7 +47,7 @@ class FeatureExtractor(tf.keras.models.Model):
             for layer_name, value in zip(self.content_layers, content_feature)
         }
 
-        """style features dictionary """
+        """style features dictionary"""
         style_dict = {
             layer_name: value
             for layer_name, value in zip(self.style_layers, gram_matrices)
