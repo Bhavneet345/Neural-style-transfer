@@ -20,7 +20,7 @@ style_weights = {
 
 def loss(content_features, style_features, generated_image_features):
 
-    """Slitting the style and content features of the generated image
+    """Splitting the style and content features of the generated image
     where 'generated_image_features is a dictionary that contains content and style as a key and
      respective features as values"""
 
